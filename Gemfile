@@ -14,6 +14,9 @@ gem 'coffee-rails', '4.1.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+#!!!!!!!!!!!!!!!!!!!!!!Added gem for postgresql as the database for Active Record!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+gem 'pg'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '4.0.3'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
